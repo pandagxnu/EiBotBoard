@@ -11,6 +11,12 @@ It is based on the UBW board and supports all of the commands that the UBW does 
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
+* **/software** - Firmware of Eibotboard --EBF_v226.zip(HEX file,the source is on google code ,but I can't visit it.)
+* **/datasheet** - the datasheet of PIC18F46J50
+
+Product website Information
+-------------------
+http://www.schmalzhaus.com/EBB/index.html
 
 License Information
 -------------------
